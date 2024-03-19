@@ -6,6 +6,7 @@
 * Gerenciamento de Eventos: Adicione, edite e exclua eventos facilmente.
 * Registro de Participantes: Permita que os usuários se inscrevam nos eventos e saiam dos eventos.
 * Administração de Usuários: Controle de acesso para usuários.
+* Relações One to Many e Many to many são usadas para mapear o sistema
   
 <h2>Requisitos do Sistema</h2>
 
